@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.ramakrishna.cloud # submit your host
+REDIS_HOST: redis.ramakrishna.cloud
+MYSQL_HOST: mysql.ramakrishna.cloud
+RABBITMQ_HOST: rabbitmq.ramakrishna.cloud
+CATALOGUE_HOST: catalog.ramakrishna.cloud
+USER_HOST: user.ramakrishna.cloud
+CART_HOST: cart.ramakrishna.cloud
+SHIPPING_HOST: shipping.ramakrishna.cloud
+PAYMENT_HOST: payment.ramakrishna.cloud
+DISPATCH_HOST: dispatch.ramakrishna.cloud
